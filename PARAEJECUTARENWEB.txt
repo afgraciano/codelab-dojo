@@ -1,0 +1,2 @@
+click derecho gitbash en la carpeta del programa
+npm run web
