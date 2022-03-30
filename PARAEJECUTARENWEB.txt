@@ -1,2 +1,3 @@
+primer descomprima la carpeta node_modules.rar
 click derecho gitbash en la carpeta del programa
-npm run web
+copia este comando dentro de gitbash: npm run web
